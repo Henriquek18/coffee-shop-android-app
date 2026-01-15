@@ -356,9 +356,9 @@ Este projeto é licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE)
 ## 👨‍💻 Autor
 
 **Seu Nome**
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu Nome](https://linkedin.com/in/seu-perfil)
-- Email: seu.email@example.com
+- GitHub: [@Henrique_k18](https://github.com/seu-usuario)
+- LinkedIn: 
+- Email: 
 
 ---
 
